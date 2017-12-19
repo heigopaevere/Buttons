@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Buttons_</string>
+    <string name="on">Button state turned on</string>
+    <string name="off">Button state off</string>
+    <string name="text">text is visible after turing the button on</string>
+    <string name="switchOn">button turned on</string>
+    <string name="switchOff">button turned off</string>
+    <string name="content">pilt mustamäest</string>
+    <string name="texty">text</string>
+    <string name="next">järgmine lehekülg</string>
+    <string name="puuvili">vali oma lemmik puuvili</string>
+</resources>
